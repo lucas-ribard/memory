@@ -2,6 +2,8 @@
 ### HTML CSS PHP  
 <img src="https://lucas-ribard.students-laplateforme.io/images/Previews/Memory-php.png" >  
   
+[Tester le jeux ici](https://lucas-ribard.students-laplateforme.io/Memory-php/index.php)
+  
 ## Consignes :
   
 Édité pour la première fois en 1959, le Memory ou jeu des paires est un classique des
