@@ -10,13 +10,13 @@
 jeux de carte ; En route vers votre clavier, pour recréer ce petit jeu en version 2.0.
   
 Que nous faut-il ?  
-  ● Il faut pouvoir choisir le nombre de paires qui seront tirées au sort
+  * Il faut pouvoir choisir le nombre de paires qui seront tirées au sort
   aléatoirement.  
   Au minimum 3 paires différentes (6 cartes) au maximum 12 paires, c’est bien.
   On peut en mettre plus bien entendu, mais qui relèvera le défi ?  
-  ● Il faut aussi pouvoir montrer que l’on est le meilleur ! Donc rajouter un
+  * Il faut aussi pouvoir montrer que l’on est le meilleur ! Donc rajouter un
   classement des 10 meilleurs joueurs.  
-  ● Ce classement sera sûrement monopolisé par des champions, il faut donc des
+  * Ce classement sera sûrement monopolisé par des champions, il faut donc des
   profils individuels en plus ; qui permettront aux joueurs de voir leur progression
   individuelle et leurs meilleurs scores.  
     
